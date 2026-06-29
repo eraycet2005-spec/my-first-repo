@@ -2,7 +2,7 @@
 
 A simple project to practise the GitHub pull request workflow.
 
-## Getting Sarted
+## Getting Started
 
 Clone this repo and explore the code.
 
